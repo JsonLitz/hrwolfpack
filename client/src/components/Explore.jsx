@@ -8,7 +8,7 @@ import CampaignModal from './CampaignModal.jsx';
 
 var divStyle = {
   margin:'100px',
-  backgroundImage: "url('../../dist/images/wolfPack.png')"
+  backgroundImage: "url('./client/dist/images/wolfPack.png')"
 
 };
 
